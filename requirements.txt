@@ -1,0 +1,12 @@
+streamlit
+groq
+python-dotenv
+openpyxl
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+PyMuPDF
+python-pptx
+python-docx
+Pillow
